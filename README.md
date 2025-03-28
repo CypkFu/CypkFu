@@ -1,7 +1,7 @@
 Hi 👋 My name is Daniel Oliver, also known as Kerkt/CypkFu in the cyberspace.
 ======================================================================
 
-SOC Analyst & IT Technician
+SOC Analyst & Cyberninja
 ---------------------------
 
 I'm an aspiring SOC Analyst, passionate about cybersecurity and dedicated to mastering the intricacies of threat detection and incident response. My journey is defined by a relentless pursuit of knowledge and a commitment to excellence in cybersecurity operations.
